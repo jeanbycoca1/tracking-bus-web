@@ -1,4 +1,4 @@
-const HOST = "https://dataschoolbus.herokuapp.com";
+const HOST = "https://tracking-bus-server.herokuapp.com";
 import { app } from "./app";
 
 import { Loading } from "element-ui";
